@@ -1,0 +1,33 @@
+Make first level cyberpunc factory
+Make second level as desert
+Make Second Level to change background!
+add rain effect! For first level
+
+Add Menu on escape and add resume button
+Add Pause 
+
+Add health bars to enemies
+Add weapon to break walls
+Dash
+Knife attack
+damage number go as a number on top of carracter
+add effects
+add effect when go back on earth after jump
+little helth bar under enemyes
+
+make distractable boxes
+
+
+
+
+
+add spikes!
+
+
+
+Refactoring plans:
+combine water decoration and exit classes to one
+
+deal with groups! combine them and make smaller (maybe i can add them to list and loop through them)
+
+Put classes in separate files
